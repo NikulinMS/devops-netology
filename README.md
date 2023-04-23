@@ -1,6 +1,6 @@
 # devops-netology
 
-Nikulinms
+NikulinMS
 
 
 **/.terraform/*
