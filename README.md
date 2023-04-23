@@ -2,7 +2,6 @@
 
 Nikulinms
 
-1234
 
 **/.terraform/*
 
